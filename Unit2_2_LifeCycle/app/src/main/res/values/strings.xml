@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcrivityLifeCycleTest</string>
+    <string name="button_1">DialogActivity</string>
+    <string name="button_2">NormalActivity</string>
+</resources>
