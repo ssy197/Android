@@ -1,0 +1,5 @@
+<resources>
+<!--    在代码中使用R.string.hello_world-->
+<!--    在XML中使用@string/hello_world-->
+    <string name="app_name">Unit1</string>
+</resources>
